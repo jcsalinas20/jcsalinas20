@@ -20,5 +20,6 @@
 [linkedin]: https://www.linkedin.com/in/juan-carlos-salinas-navarrete-6b04b41b0/
 
 <br />
+<br />
 
 <img align="left" src="https://i.imgur.com/4M7IWwP.gif" width="1000px"/>
