@@ -1,4 +1,4 @@
-![](https://i.imgur.com/4M7IWwP.gif)
+<img align="left" src="https://i.imgur.com/4M7IWwP.gif" width="1000px"/>
 
 ### Hi there, I'm Juan Carlos 👋
 
@@ -20,6 +20,5 @@
 [linkedin]: https://www.linkedin.com/in/juan-carlos-salinas-navarrete-6b04b41b0/
 
 <br />
-<br />
 
-![](https://i.imgur.com/4M7IWwP.gif)
+<img align="left" src="https://i.imgur.com/4M7IWwP.gif" width="1000px"/>
