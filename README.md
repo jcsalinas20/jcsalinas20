@@ -46,6 +46,9 @@
 <img align="left" alt="JQuery" title="JQuery" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/jquery.png" />
 <img align="left" alt="Bootstrap" title="Bootstrap" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/bootstrap.png" />
 <br />
+<br />
+<br />
+<br />
 <img align="left" alt="Node Sass" title="Node Sass" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/sass.png" />
 <img align="left" alt="Semantic UI" title="Semantic UI" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/semanticui.png" />
 
