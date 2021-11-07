@@ -13,6 +13,8 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 
 ## Languages
 
@@ -26,6 +28,8 @@
 <img align="left" alt="JSON" title="JSON" width="70px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/json.png" />
 <img align="left" alt="XML" title="XML" width="70px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/xml.png" />
 
+<br />
+<br />
 <br />
 <br />
 
@@ -47,6 +51,7 @@
 <br />
 <br />
 <br />
+<br />
 
 ## Databases
 
@@ -57,6 +62,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
 ## Others
 
@@ -65,6 +72,8 @@
 <img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/eclipse.png" />
 <img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/vscode.png" />
 
+<br />
+<br />
 <br />
 <br />
 
