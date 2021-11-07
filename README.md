@@ -33,35 +33,20 @@
 <br />
 <br />
 
-## Test
-
-![javaswing](http://imgfz.com/i/O9qzsk6.png "Java Swing")
-![javafx](http://imgfz.com/i/f6onKEG.png "Java FX")
-![springboot](http://imgfz.com/i/xmfctwn.png "Spring Boot")
-![androidstudio](http://imgfz.com/i/buNDfJM.png "Android Studio")
-![laravel](http://imgfz.com/i/nDhJx8u.png "Laravel")
-![react](http://imgfz.com/i/Di6q712.png "React JS")
-![node](http://imgfz.com/i/GzK23fL.png "Node JS")
-![apachecordova](http://imgfz.com/i/ZixmuMe.png "Apache Cordova")
-![jquery](http://imgfz.com/i/PJSdkrW.png "JQuery")
-![bootstrap](http://imgfz.com/i/q5p1kZF.png "Bootstrap")
-![nodesass](http://imgfz.com/i/nDF1m45.png "Node SASS")
-![semanticui](http://imgfz.com/i/LOqozMt.png "Semantic UI")
-
 ## Frameworks
 
-<img align="left" alt="Java Swing" title="Java Swing" width="65px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javaswing.png" />
-<img align="left" alt="JavaFX" title="JavaFX" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javafx.png" />
-<img align="left" alt="Spring Boot" title="Spring Boot" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/springboot.png" />
-<img align="left" alt="Android Studio" title="Android Studio" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/androidstudio.png" />
-<img align="left" alt="Laravel" title="Laravel" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/laravel.png" />
-<img align="left" alt="React JS" title="React JS" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/react.png" />
-<img align="left" alt="NodeJS" title="NodeJS" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/nodejs.png" />
-<img align="left" alt="Apache Cordova" title="Apache Cordova" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/apachecordova.png" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/bootstrap.png" />
-<img align="left" alt="JQuery" title="JQuery" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/jquery.png" />
-<img align="left" alt="Node Sass" title="Node Sass" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/sass.png" />
-<img align="left" alt="Semantic UI" title="Semantic UI" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/semanticui.png" />
+![javaswing](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javaswing.png "Java Swing")
+![javafx](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javafx.png "Java FX")
+![springboot](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/springboot.png "Spring Boot")
+![androidstudio](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/androidstudio.png "Android Studio")
+![laravel](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/laravel.png "Laravel")
+![react](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/react.png "React JS")
+![node](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/nodejs.png "Node JS")
+![apachecordova](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/apachecordova.png "Apache Cordova")
+![jquery](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/jquery.png "JQuery")
+![bootstrap](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/bootstrap.png "Bootstrap")
+![nodesass](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/sass.png "Node SASS")
+![semanticui](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/semanticui.png "Semantic UI")
 
 <br />
 <br />
