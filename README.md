@@ -34,42 +34,19 @@
 <br />
 
 ## Frameworks
-<p>
+
 <img align="left" alt="Java Swing" title="Java Swing" width="65px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javaswing.png" />
-  </p>
- <p>
 <img align="left" alt="JavaFX" title="JavaFX" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javafx.png" />
-  </p>
- <p>
 <img align="left" alt="Spring Boot" title="Spring Boot" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/springboot.png" />
-  </p>
- <p>
 <img align="left" alt="Android Studio" title="Android Studio" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/androidstudio.png" />
-  </p>
- <p>
 <img align="left" alt="Laravel" title="Laravel" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/laravel.png" />
-  </p>
- <p>
 <img align="left" alt="React JS" title="React JS" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/react.png" />
-  </p>
- <p>
 <img align="left" alt="NodeJS" title="NodeJS" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/nodejs.png" />
-</p>
- <p>
 <img align="left" alt="Apache Cordova" title="Apache Cordova" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/apachecordova.png" />
-  </p>
- <p>
-<img align="left" alt="JQuery" title="JQuery" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/jquery.png" />
-  </p>
- <p>
 <img align="left" alt="Bootstrap" title="Bootstrap" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/bootstrap.png" />
-  </p>
- <p>
+<img align="left" alt="JQuery" title="JQuery" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/jquery.png" />
 <img align="left" alt="Node Sass" title="Node Sass" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/sass.png" />
-</p>
- <p>
 <img align="left" alt="Semantic UI" title="Semantic UI" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/semanticui.png" />
-</p>
 
 <br />
 <br />
