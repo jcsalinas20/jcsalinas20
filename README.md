@@ -34,7 +34,7 @@
 <br />
 
 ## Frameworks
-
+<p>
 <img align="left" alt="Java Swing" title="Java Swing" width="65px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javaswing.png" />
 <img align="left" alt="JavaFX" title="JavaFX" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javafx.png" />
 <img align="left" alt="Spring Boot" title="Spring Boot" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/springboot.png" />
@@ -46,11 +46,9 @@
 <img align="left" alt="JQuery" title="JQuery" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/jquery.png" />
 <img align="left" alt="Bootstrap" title="Bootstrap" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/bootstrap.png" />
 <img align="left" alt="Node Sass" title="Node Sass" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/sass.png" />
-<br />
-<br />
-<br />
-<br />
+
 <img align="left" alt="Semantic UI" title="Semantic UI" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/semanticui.png" />
+</p>
 
 <br />
 <br />
