@@ -16,7 +16,7 @@
 
 ## Languages
 
-<img align="left" alt="Java" title="Java" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/java.png" />
+<img align="left" alt="Java" title="Java" width="65px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/java.png" />
 <img align="left" alt="HTML" title="HTML" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/html.png" />
 <img align="left" alt="CSS" title="CSS" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/css.png" />
 <img align="left" alt="Javascript" title="Javascript" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/javascript.png" />
@@ -31,12 +31,24 @@
 
 ## Frameworks
 
-<img align="left" alt="MongoDB" title="MongoDB" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/mongodb.png" />
+<img align="left" alt="Java Swing" title="Java Swing" width="65px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javaswing.png" />
+<img align="left" alt="JavaFX" title="JavaFX" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/javafx.png" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/springboot.png" />
+<img align="left" alt="Android Studio" title="Android Studio" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/androidstudio.png" />
+<img align="left" alt="Laravel" title="Laravel" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/laravel.png" />
+<img align="left" alt="React JS" title="React JS" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/react.png" />
+<img align="left" alt="NodeJS" title="NodeJS" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/nodejs.png" />
+<img align="left" alt="Apache Cordova" title="Apache Cordova" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/apachecordova.png" />
+<img align="left" alt="JQuery" title="JQuery" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/jquery.png" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/bootstrap.png" />
+<img align="left" alt="Node Sass" title="Node Sass" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/sass.png" />
+<img align="left" alt="Semantic UI" title="Semantic UI" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/semanticui.png" />
 
 <br />
 <br />
+<br />
 
-## Datadases
+## Databases
 
 <img align="left" alt="MongoDB" title="MongoDB" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/mongodb.png" />
 <img align="left" alt="MySQL" title="MySQL" width="70px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/mysql.png" />
@@ -48,10 +60,15 @@
 
 ## Others
 
-<img align="left" alt="MongoDB" title="MongoDB" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/mongodb.png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/git.png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/intellij.png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/eclipse.png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/vscode.png" />
 
 <br />
 <br />
+
+## Collaborations
 
 ## Social Links
 
