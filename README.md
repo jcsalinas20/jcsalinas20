@@ -18,20 +18,15 @@
 
 ## Languages
 
-<img align="left" alt="Java" title="Java" width="65px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/java.png" />
-<img align="left" alt="HTML" title="HTML" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/html.png" />
-<img align="left" alt="CSS" title="CSS" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/css.png" />
-<img align="left" alt="Javascript" title="Javascript" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/javascript.png" />
-<img align="left" alt="PHP" title="PHP" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/php.png" />
-<img align="left" alt="PL\SQL" title="PL\SQL" width="70px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/plsql.png" />
-<img align="left" alt="Python" title="Python" width="70px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/python.png" />
-<img align="left" alt="JSON" title="JSON" width="70px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/json.png" />
-<img align="left" alt="XML" title="XML" width="70px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/xml.png" />
-
-<br />
-<br />
-<br />
-<br />
+![java](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/java.png "Java")
+![html](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/html.png "HTML")
+![css](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/css.png "CSS")
+![javascript](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/javascript.png "Javascript")
+![php](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/php.png "PHP")
+![plsql](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/plsql.png "PL\SQL")
+![python](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/python.png "Python")
+![json](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/json.png "JSON")
+![xml](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/languages/xml.png "XML")
 
 ## Frameworks
 
@@ -48,35 +43,19 @@
 ![nodesass](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/sass.png "Node SASS")
 ![semanticui](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/frameworks/semanticui.png "Semantic UI")
 
-<br />
-<br />
-<br />
-<br />
-<br />
-
 ## Databases
 
-<img align="left" alt="MongoDB" title="MongoDB" width="60px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/mongodb.png" />
-<img align="left" alt="MySQL" title="MySQL" width="70px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/mysql.png" />
-<img align="left" alt="OracleSQL" title="OracleSQL" width="70px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/oracle.png" />
-<img align="left" alt="PhpMyAdmin" title="PhpMyAdmin" width="80px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/phpmyadmin.png" />
-
-<br />
-<br />
-<br />
-<br />
+![mongodb](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/mongodb.png "MongoDB")
+![MySQL](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/mysql.png "MySQL")
+![oracle](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/oracle.png "Oracle SQL")
+![phpmyadmin](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/databases/phpmyadmin.png "PhpMyAdmin")
 
 ## Others
 
-<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/git.png" />
-<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/intellij.png" />
-<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/eclipse.png" />
-<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/vscode.png" />
-
-<br />
-<br />
-<br />
-<br />
+![git](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/git.png "Git")
+![intellij](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/intellij.png "IntelliJ IDEA")
+![eclipse](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/eclipse.png "Eclipse")
+![vscode](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/vscode.png "Visual Studio Code")
 
 ## Collaborations
 
