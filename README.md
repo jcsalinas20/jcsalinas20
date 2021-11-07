@@ -1,10 +1,12 @@
-<img align="left" src="https://i.imgur.com/4M7IWwP.gif" width="1000px"/>
+<img align="left" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/rainbow.gif" width="1000px"/>
 
 ### Hi there, I'm Juan Carlos 👋
 
-## My Stats
+# My Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=jcsalinas20&show_icons=true&theme=dark "Github Stats")
+
+# My Skills
 
 ## Languages
 
@@ -47,10 +49,42 @@
 ![eclipse](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/eclipse.png "Eclipse")
 ![vscode](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/others/vscode.png "Visual Studio Code")
 
-## Collaborations
+# Collaborations
 
-## Social Links
+---
 
-[![linkedin](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/juan-carlos-salinas-navarrete-6b04b41b0/)
+__Project Name:__ Simon Says  
+__Owner:__ [@aleexnl](https://github.com/aleexnl)  
+__Other Collaborators:__ [@JesusSePe](https://github.com/JesusSePe)  
+__Link__: https://github.com/aleexnl/simon-says
 
-<img align="left" src="https://i.imgur.com/4M7IWwP.gif" width="1000px"/>
+---
+
+__Project Name:__ Trip Count  
+__Owner:__ [@aleexnl](https://github.com/aleexnl)  
+__Other Collaborators:__ [@PMartinOnTheCloud](https://github.com/PMartinOnTheCloud)  
+__Link__: https://github.com/aleexnl/trip-count
+
+---
+
+__Project Name:__ IETI-matricula  
+__Owner:__ [@silviadlc](https://github.com/silviadlc)  
+__Other Collaborators:__  --  
+__Link__: https://github.com/silviadlc/IETI-matricula
+
+---
+
+__Project Name:__ Matrics  
+__Owner:__ [@Esteve Terradas AWS2 Web Development Team](https://github.com/AWS2)  
+__Other Collaborators:__ Many  
+__Link__: https://github.com/AWS2/matrics
+
+---
+
+# Social Links
+
+[![linkedin](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/social/linkedin.png)](https://www.linkedin.com/in/juan-carlos-salinas-navarrete-6b04b41b0/) 
+[![instagram](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/social/instagram.png)](https://www.instagram.com/zell_zdark/)
+[![twitter](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/social/twiiter.png)](https://twitter.com/jcsalinas20)
+
+<img align="left" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/rainbow.gif" width="1000px"/>
