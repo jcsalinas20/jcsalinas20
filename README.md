@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/rainbow.gif" width="900px"/>
+<img align="left" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/rainbow.gif" width="800px"/>
 
 ### Hi there, I'm Juan Carlos 👋
 
@@ -87,4 +87,4 @@ __Link__: https://github.com/AWS2/matrics
 [![instagram](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/social/instagram.png)](https://www.instagram.com/zell_zdark/)
 [![twitter](https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/social/twiiter.png)](https://twitter.com/jcsalinas20)
 
-<img align="left" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/rainbow.gif" width="900px"/>
+<img align="left" src="https://raw.githubusercontent.com/jcsalinas20/jcsalinas20/main/images/rainbow.gif" width="800px"/>
